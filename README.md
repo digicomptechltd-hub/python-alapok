@@ -1,4 +1,3 @@
-"Ez az első munkám a tanulás során"
 # python-alapok
 
 Tanulási projekt: a programozás alapjainak elsajátítása nulláról, Python nyelven.
